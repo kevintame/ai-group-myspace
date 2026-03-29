@@ -466,6 +466,19 @@ img.friend-avatar {
   margin-bottom: 1rem;
 }
 
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.social-links .cta-button {
+  font-size: 0.9rem;
+  padding: 0.5rem 1.25rem;
+}
+
 .guestbook {
   text-align: left;
   margin-bottom: 1.5rem;
